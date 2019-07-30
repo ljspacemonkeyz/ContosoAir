@@ -1,7 +1,7 @@
 {
     "Title": "Contoso Air Demo",
 	"Home": {
-		"HeroMessage": "Where do you<br>want to go?"
+		"HeroMessage": "DevOps Demo<br>Hello!"
 	},
 	"Deals": {
 		"CitiesTitle": "Recommended for you",
